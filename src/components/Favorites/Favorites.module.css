@@ -1,0 +1,35 @@
+.book_item_img img{
+    height: 18rem;
+    border-radius: 3rem;
+    cursor: pointer;
+}
+
+.book_item{
+
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.book_item_info.title{
+    line-height: 1.4;
+}
+
+.book_item a,.book_item a:hover{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.book_info_author{
+    line-height: 1.4;
+    margin-bottom: 4px;
+    color: aliceblue;
+    font-size: 14px;
+    color: cadetblue;
+}
+
+
+
+
